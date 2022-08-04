@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imagen: MyString
+  nombre: MyString
+  edad: 1
+  peso: 1.5
+
+two:
+  imagen: MyString
+  nombre: MyString
+  edad: 1
+  peso: 1.5
