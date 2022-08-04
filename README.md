@@ -1,5 +1,9 @@
 # README
 
+Imagen de Modelado de la db.
+
+https://github.com/hariacev/apirestful/blob/master/app/assets/ModeladoDeLaDB.jpg
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
