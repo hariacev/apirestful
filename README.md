@@ -1,6 +1,6 @@
 # README
 
-Imagen de Modelado de la db.
+DB Model image.
 
 https://github.com/hariacev/apirestful/blob/master/app/assets/ModeladoDeLaDB.jpg
 
